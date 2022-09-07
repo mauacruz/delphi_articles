@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/09/07 09:45:26.884.pas,C:\Users\pirmau01\OneDrive - ANDRITZ AG\Documents\RAD Studio\Projects\Unit1.pas=C:\Projetos\Clone\uVwPrincipal.pas</Transaction>
+    <Transaction>2022/09/07 09:45:26.884.dfm,C:\Users\pirmau01\OneDrive - ANDRITZ AG\Documents\RAD Studio\Projects\Unit1.dfm=C:\Projetos\Clone\uVwPrincipal.dfm</Transaction>
+    <Transaction>2022/09/07 09:45:39.590.dproj,C:\Users\pirmau01\OneDrive - ANDRITZ AG\Documents\RAD Studio\Projects\Project1.dproj=C:\Projetos\Clone\ObjectCloning.dproj</Transaction>
+    <Transaction>2022/09/07 09:45:59.254.pas,C:\Projetos\Clone\uVwPrincipal.pas=C:\Projetos\Clone\uVwMain.pas</Transaction>
+    <Transaction>2022/09/07 09:45:59.254.dfm,C:\Projetos\Clone\uVwPrincipal.dfm=C:\Projetos\Clone\uVwMain.dfm</Transaction>
+    <Transaction>2022/09/07 09:50:01.298.pas,C:\Projetos\Clone\Unit1.pas=C:\Projetos\Clone\Clone.uItemEstoque.pas</Transaction>
+    <Transaction>2022/09/07 11:45:24.029.pas,C:\Projetos\Clone\Unit1.pas=C:\Projetos\Clone\Clone.uItemEstoqueFactory.pas</Transaction>
+  </Transactions>
+</BorlandProject>
